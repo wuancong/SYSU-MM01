@@ -15,7 +15,7 @@ SYSU-MM01 contains RGB and IR images of 491 identities from 6 cameras including 
 
 Here are some examples of the dataset and some statistics of SYSU-MM01:
 ![](https://github.com/wuancong/SYSU-MM01/blob/master/img/example.jpg)
-<div align=center><img src="https://github.com/wuancong/SYSU-MM01/blob/master/img/overview.jpg"/></div>
+![](https://github.com/wuancong/SYSU-MM01/blob/master/img/overview.jpg)
 
 As for the image captureing details of each camera, RGB images of camera 1 and 2 were captured in two bright indoor rooms (room 1 and 2) by Kinect V1. For each person, there are at least 400 continuous RGB frames with different poses and viewpoints. IR images of camera 3 and camera 6 are captured by IR cameras in the dark. The IR images have only one channel, and they are different from 3-channel RGB images. Camera 3 is placed in room 2 in dark environment,
 while camera 6 is placed in an outdoor passage with background clutters. Camera 4 and 5 are RGB surveillance cameras
