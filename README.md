@@ -2,6 +2,7 @@
 The SYSU-MM01 dataset is an RGB-Infrared (IR) multi-modality pedestrian dataset for cross-modality or multi-modality person re-identification.
 
 - dataset download links:
+
 Baiduyun: http://pan.baidu.com/s/1gfIlcmZ
 
 Dropbox: https://www.dropbox.com/sh/v036mg1q4yg7awb/AABhxU-FJ4X2oyq7-Ts6bgD0a?dl=0
@@ -12,7 +13,8 @@ Porject page: http://isee.sysu.edu.cn/project/RGBIRReID.htm (The link may not be
 SYSU-MM01 contains RGB and IR images of 491 identities from 6 cameras including 4 RGB cameras and 2 IR cameras. RGB cameras work in bright scenarios while IR cameras work in dark scenario. There are totally 287,628 RGB images and 15,792 IR images in the dataset.
 
 Here are some examples of the dataset and some statistics of SYSU-MM01:
-![]()
+![](https://github.com/wuancong/SYSU-MM01/blob/master/img/example.jpg)
+![](https://github.com/wuancong/SYSU-MM01/blob/master/img/overview.jpg)
 
 As for the details of each camera, RGB images of camera 1 and camera 2 were captured in two bright indoor rooms (room 1 and room 2) by Kinect V1. For each person, there are at least 400 continuous RGB frames with different poses and viewpoints. IR images of camera 3 and camera 6 are captured by IR cameras in the dark. The IR images have only
 one channel, and they are different from 3-channel RGB images. Camera 3 is placed in room 2 in dark environment,
