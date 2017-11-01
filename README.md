@@ -7,7 +7,7 @@ Baiduyun: http://pan.baidu.com/s/1gfIlcmZ
 
 Dropbox: https://www.dropbox.com/sh/v036mg1q4yg7awb/AABhxU-FJ4X2oyq7-Ts6bgD0a?dl=0
 
-Project page: http://isee.sysu.edu.cn/project/RGBIRReID.htm (This link may not be available now and we will fix it as soon as possible.)
+Project page: http://isee.sysu.edu.cn/project/RGBIRReID.htm
 
 ## Dataset Description
 SYSU-MM01 contains RGB and IR images of 491 identities from 6 cameras including 4 RGB cameras and 2 IR cameras. RGB cameras work in bright scenarios while IR cameras work in dark scenario. There are totally 287,628 RGB images and 15,792 IR images in the dataset.
