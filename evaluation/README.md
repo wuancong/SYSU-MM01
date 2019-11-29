@@ -10,7 +10,8 @@ Dropbox: https://www.dropbox.com/sh/v036mg1q4yg7awb/AABhxU-FJ4X2oyq7-Ts6bgD0a?dl
 Project page: http://isee.sysu.edu.cn/project/RGBIRReID.htm
 
 Testing code:
-https://github.com/wuancong/SYSU-MM01/blob/master/evaluation
+matlab version https://github.com/wuancong/SYSU-MM01/blob/master/evaluation
+python version https://github.com/InnovArul/SYSU_MM01_pythoneval (Thanks for the implementation by Arul)
 
 ## Citation
 If you use the dataset, please cite the following paper:

@@ -10,7 +10,8 @@ Dropbox: https://www.dropbox.com/sh/v036mg1q4yg7awb/AABhxU-FJ4X2oyq7-Ts6bgD0a?dl
 Project page: http://isee.sysu.edu.cn/project/RGBIRReID.htm
 
 Testing code:
-https://github.com/wuancong/SYSU-MM01/blob/master/evaluation
+matlab version https://github.com/wuancong/SYSU-MM01/blob/master/evaluation
+python version https://github.com/InnovArul/SYSU_MM01_pythoneval (Thanks for the implementation by Arul)
 
 ## Citation
 If you use the dataset, please cite the following paper:
@@ -45,4 +46,4 @@ For both modes, we adopt single-shot and multi-shot settings. For every identity
 For indicating the performance, we use Cumulative Matching Characteristic (CMC) and mean average precision (mAP). Notice that, for CMC under multi-shot setting, only the maximum similarity in all gallery images of the same person is taken to compute the rank list. We repeat the above evaluation 10 times with random split of gallery and probe set and compute the average performance finally.
 
 ## Contact Information
-If you have any questions, please feel free to contact wuancong@mail2.sysu.edu.cn.
+If you have any questions, please feel free to contact wuancong@gmail.com.
