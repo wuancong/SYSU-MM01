@@ -2,12 +2,10 @@
 A MATLAB version testing demo is provided for evaluation on SYSU-MM01 dataset in "RGB-Infrared Cross-Modality Person Re-identification, ICCV 2017".
 
 Dataset download links:
-
 Baiduyun: http://pan.baidu.com/s/1gfIlcmZ
-
 Dropbox: https://www.dropbox.com/sh/v036mg1q4yg7awb/AABhxU-FJ4X2oyq7-Ts6bgD0a?dl=0
 
-Project page: http://isee.sysu.edu.cn/project/RGBIRReID.htm
+Project page: http://www.isee-ai.cn/project/RGBIRReID.htm
 
 Testing code:  
 matlab version https://github.com/wuancong/SYSU-MM01/blob/master/evaluation  
