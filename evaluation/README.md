@@ -14,7 +14,7 @@ python version https://github.com/InnovArul/SYSU_MM01_pythoneval (Thanks for the
 ## Citation
 If you use the dataset, please cite the following paper:
 
-Ancong Wu, Wei-Shi Zheng, Hong-Xing Yu, Shaogang Gong and Jianhuang Lai. RGB-Infrared Cross-Modality Person Re-Identification. IEEE International Conference on Computer Vision (ICCV), 2017.
+Ancong Wu, Wei-Shi Zheng, Hong-Xing Yu, Shaogang Gong and Jianhuang Lai. RGB-IR Person Re-Identification by Cross-Modality Similarity Preservation. International Journal of Computer Vision (IJCV), 2020.
 
 ## Testing procedure
 

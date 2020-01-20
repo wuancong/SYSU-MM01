@@ -14,7 +14,7 @@ python version https://github.com/InnovArul/SYSU_MM01_pythoneval (Thanks for the
 ## Citation
 If you use the dataset, please cite the following paper:
 
-Ancong Wu, Wei-Shi Zheng, Hong-Xing Yu, Shaogang Gong and Jianhuang Lai. RGB-Infrared Cross-Modality Person Re-Identification. IEEE International Conference on Computer Vision (ICCV), 2017.
+Ancong Wu, Wei-Shi Zheng, Hong-Xing Yu, Shaogang Gong and Jianhuang Lai. RGB-IR Person Re-Identification by Cross-Modality Similarity Preservation. International Journal of Computer Vision (IJCV), 2020.
 
 ## Dataset Description
 SYSU-MM01 contains RGB and IR images of 491 identities from 6 cameras including 4 RGB cameras and 2 IR cameras. RGB cameras work in bright scenarios while IR cameras work in dark scenario. There are totally 30,071 RGB images and 15,792 IR images in the dataset.
