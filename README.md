@@ -1,11 +1,10 @@
 # RGB-Infrared Cross-Modality Re-ID Dataset
-The SYSU-MM01 dataset is an RGB-Infrared (IR) multi-modality pedestrian dataset for cross-modality person re-identification. It is the first attempt to address the RGB-IR cross-modality Re-ID problem.
+The SYSU-MM01 dataset is an RGB-Infrared (IR) multi-modality pedestrian dataset for cross-modality person re-identification.  
+**Every pedestrian in the dataset has signed a privacy license to allow scientific research use and commercial use is not allowed.**
 
-Dataset download links:
-Baiduyun: http://pan.baidu.com/s/1gfIlcmZ
+Dataset download links:  
+Baiduyun: http://pan.baidu.com/s/1gfIlcmZ  
 Dropbox: https://www.dropbox.com/sh/v036mg1q4yg7awb/AABhxU-FJ4X2oyq7-Ts6bgD0a?dl=0
-
-Project page: http://www.isee-ai.cn/project/RGBIRReID.htm
 
 Testing code:  
 matlab version https://github.com/wuancong/SYSU-MM01/blob/master/evaluation  
