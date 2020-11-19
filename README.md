@@ -4,6 +4,7 @@ The SYSU-MM01 dataset is an RGB-Infrared (IR) multi-modality pedestrian dataset 
 
 Dataset download links:  
 Baiduyun: http://pan.baidu.com/s/1gfIlcmZ  
+GoogleDrive: https://drive.google.com/drive/folders/1c7kh7feE2Cxua-h6di69D9xmoFz4hz_P?usp=sharing  
 Dropbox: https://www.dropbox.com/sh/v036mg1q4yg7awb/AABhxU-FJ4X2oyq7-Ts6bgD0a?dl=0
 
 Testing code:  
