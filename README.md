@@ -3,7 +3,7 @@ The SYSU-MM01 dataset is an RGB-Infrared (IR) multi-modality pedestrian dataset 
 **Every pedestrian captured in the dataset has signed a privacy license to allow the images to be used for scientific research and shown in research papers.**
 
 Dataset download:  
-Please send a signed [dataset release agreement] (https://github.com/wuancong/SYSU-MM01/blob/master/agreement/agreement.pdf) copy to wuancong@gmail.com and wuanc@mail.sysu.edu.cn.
+Please send a signed [dataset release agreement](https://github.com/wuancong/SYSU-MM01/blob/master/agreement/agreement.pdf) copy to wuancong@gmail.com and wuanc@mail.sysu.edu.cn.
 If your application is passed, we will send the download link of the dataset.
 
 Testing code:  
